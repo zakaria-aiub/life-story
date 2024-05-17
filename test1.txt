@@ -1,5 +1,0 @@
-this is text1
-this is new text.txt 
-2nd line added
-this text is added to pull test
-local brach test
