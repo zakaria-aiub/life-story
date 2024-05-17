@@ -5,3 +5,4 @@ this text is added to pull test
 bug fixed
 local to remot push test
 feature2 test file
+logo alignment is centerd
