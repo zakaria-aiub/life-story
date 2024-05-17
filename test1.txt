@@ -3,3 +3,4 @@ this is new text.txt
 2nd line added
 this text is added to pull test
 bug fixed
+local to remot push test
