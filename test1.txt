@@ -6,3 +6,4 @@ bug fixed
 local to remot push test
 feature2 test file
 logo alignment is centerd
+line added from main
